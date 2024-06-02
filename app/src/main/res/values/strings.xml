@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Игра жизнь</string>
+    <string name="action_clear">Очистить</string>
+    <string name="action_change_color_alive">Изменить цвет</string>
+    <string name="action_color_blue">Синий</string>
+    <string name="action_color_red">Красный</string>
+    <string name="action_change_fill_method">Изменить метод заполнения</string>
+    <string name="action_default_fill">Обычное заполнение (одиночное)</string>
+    <string name="action_box_fill">Квадратное заполнение</string>
+    <string name="action_fill_random">Заполнить (рандомно)</string>
+    <string name="slow">Медленно</string>
+    <string name="fast">Быстро</string>
+</resources>
